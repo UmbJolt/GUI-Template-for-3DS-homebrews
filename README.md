@@ -9,7 +9,9 @@ Template for basic homebrews using sf2d, sftd and sfil
 
 You can use this template to make basic GUI to your homebrews. This code provides a simple template that sets up the basic infrastructure for your 3DS homebrew application, and has a bit of functions that allows you to print menu entries in the screen.
 
-**This is meant as a base**, you can modify it as you wish. Default location for UI assets is in **romfs**, that is automatically loaded by the application.
+**This is meant as a base**, you can modify **everything** it as you wish. 
+
+Default location for UI assets is in **romfs**, that is automatically loaded by the application.
 
 ---
 
