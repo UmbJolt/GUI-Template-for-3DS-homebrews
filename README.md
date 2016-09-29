@@ -1,7 +1,7 @@
 # GUI-Template-for-3DS-homebrews
 Template for basic homebrews using sf2d, sftd and sfil
 
-![http://i.imgur.com/956NLCI.png]
+![example](http://i.imgur.com/956NLCI.png)
 
 ---
 
